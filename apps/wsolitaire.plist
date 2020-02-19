@@ -17,7 +17,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-				<string>com.diguotech.wsolitaire</string>
+				<string>com.chesscardgames.solitairedaily</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
