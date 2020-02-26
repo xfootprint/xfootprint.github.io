@@ -9,6 +9,7 @@
 + **[tapjoy](https://dev.tapjoy.com/sdk-integration/)** \| [release-notes](https://dev.tapjoy.com/sdk-integration/#release_notes) 
 + **[chartboost-iOS](https://answers.chartboost.com/en-us/child_article/ios)** \| **[chartboost-android](https://answers.chartboost.com/en-us/child_article/android)**  \| [release-notes-iOS](https://answers.chartboost.com/en-us/child_article/ios-ios-swift)  \| [release-notes-android](https://answers.chartboost.com/en-us/child_article/android-amazon)
 + **[toutiao](https://partner.oceanengine.com/union/media/union/download)** \| [doc](https://partner.oceanengine.com/union/media/union/download?id=167&pid=&title=%E6%96%87%E6%A1%A3%E4%B8%8B%E8%BD%BD)
++ **[amazon](https://developer.amazon.com/docs/apps-and-games/sdk-downloads.html)** \| [android](https://developer.amazon.com/docs/mobile-ads/mb-android-concepts.html) \| [iOS](https://developer.amazon.com/docs/mobile-ads/mb-ios-ad-targeting-options.html)
 
 ### coding
 + **[C Programming](pages/coding/c)**
